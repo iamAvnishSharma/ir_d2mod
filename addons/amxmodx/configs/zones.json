@@ -1,0 +1,251 @@
+{
+    "de_dust2": [
+        {
+            "name": "CT Middle",
+            "when": {
+                "rule": "lower_than",
+                "argument": 10
+            },
+            "origin": [
+                -737,
+                2299,
+                -127
+            ],
+            "size": {
+                "min": [
+                    -10,
+                    -380,
+                    0
+                ],
+                "max": [
+                    10,
+                    380,
+                    410
+                ]
+            },
+            "objects": [
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        90,
+                        0
+                    ],
+                    "origin": [
+                        -737,
+                        2117,
+                        -74
+                    ],
+                    "body": 0,
+                    "skin": 0
+                },
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        90,
+                        0
+                    ],
+                    "origin": [
+                        -737,
+                        2251,
+                        -74
+                    ],
+                    "body": 0,
+                    "skin": 0
+                },
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        90,
+                        0
+                    ],
+                    "origin": [
+                        -737,
+                        2385,
+                        -74
+                    ],
+                    "body": 0,
+                    "skin": 0
+                },
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        90,
+                        0
+                    ],
+                    "origin": [
+                        -737,
+                        2519,
+                        -57
+                    ],
+                    "body": 0,
+                    "skin": 0
+                },
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        90,
+                        0
+                    ],
+                    "origin": [
+                        -737,
+                        2653,
+                        -38
+                    ],
+                    "body": 0,
+                    "skin": 0
+                }
+            ]
+        },
+        {
+            "name": "TR Spawn",
+            "when": {
+                "rule": "lower_than",
+                "argument": 10
+            },
+            "origin": [
+                -1099,
+                -824,
+                128
+            ],
+            "size": {
+                "min": [
+                    -10,
+                    -200,
+                    0
+                ],
+                "max": [
+                    10,
+                    200,
+                    220
+                ]
+            },
+            "objects": [
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        90,
+                        0
+                    ],
+                    "origin": [
+                        -1098,
+                        -961,
+                        182
+                    ],
+                    "body": 0,
+                    "skin": 0
+                },
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        90,
+                        0
+                    ],
+                    "origin": [
+                        -1098,
+                        -827,
+                        182
+                    ],
+                    "body": 0,
+                    "skin": 0
+                },
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        90,
+                        0
+                    ],
+                    "origin": [
+                        -1098,
+                        -693,
+                        182
+                    ],
+                    "body": 0,
+                    "skin": 0
+                }
+            ]
+        },
+        {
+            "name": "TR Spawn#2",
+            "when": {
+                "rule": "lower_than",
+                "argument": 10
+            },
+            "origin": [
+                -1027,
+                -577,
+                256
+            ],
+            "size": {
+                "min": [
+                    -80,
+                    -60,
+                    0
+                ],
+                "max": [
+                    80,
+                    60,
+                    90
+                ]
+            },
+            "objects": []
+        },
+        {
+            "name": "Middle B's Tunnel",
+            "when": {
+                "rule": "lower_than",
+                "argument": 10
+            },
+            "origin": [
+                -528,
+                1410,
+                -111
+            ],
+            "size": {
+                "min": [
+                    -10,
+                    -70,
+                    0
+                ],
+                "max": [
+                    10,
+                    70,
+                    120
+                ]
+            },
+            "objects": [
+                {
+                    "name": "Small Grid",
+                    "mdl": "models\/grid_small.mdl",
+                    "angles": [
+                        0,
+                        90,
+                        0
+                    ],
+                    "origin": [
+                        -525,
+                        1409,
+                        -111
+                    ],
+                    "body": 0,
+                    "skin": 0
+                }
+            ]
+        }
+    ]
+}
